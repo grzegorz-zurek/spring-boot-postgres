@@ -1,0 +1,16 @@
+black==23.11.0
+click==8.1.7
+colorama==0.4.6
+Faker==20.0.3
+greenlet==3.0.1
+mypy-extensions==1.0.0
+packaging==23.2
+pathspec==0.11.2
+platformdirs==4.0.0
+psycopg-binary==3.1.13
+psycopg2-binary==2.9.9
+python-dateutil==2.8.2
+six==1.16.0
+SQLAlchemy==2.0.23
+tomli==2.0.1
+typing_extensions==4.8.0
